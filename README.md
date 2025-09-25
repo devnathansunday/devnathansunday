@@ -8,7 +8,7 @@ I enjoy turning ideas into real-world solutions using modern web technologies. A
 ---
 
 ## ⚡ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript/TypeScript, React, Next.js  
+- **Frontend:** HTML, CSS, JavaScript/TypeScript, React, Next.js, TailwindCSS, Bootstrap
 - **Mobile:** React Native  
 
 ---
