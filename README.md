@@ -14,11 +14,11 @@ I enjoy turning ideas into real-world solutions using modern web technologies. A
 ---
 
 ## 🚀 Featured Projects  
-- 💼 **My Portfolio** → [View Portfolio](https://portfolio-tan-six-78.vercel.app/)  
-- 🌍 **Princely Community Management Site** – Crypto marketing landing page for a client providing raiders, shillers, designers, and growth solutions → [View Website](https://princelycm.com/)  
-- 🌦️ **Weather App** – Displays live weather info with a user-friendly interface → [View App](https://ns-weather-app.vercel.app/)  
-- ✅ **To-Do List App** – Simple, clean productivity app for managing daily tasks → [View App](https://ns-to-do-app.vercel.app/)  
-- ➗ **Calculator App** – Lightweight calculator built with core web technologies → [View App](https://calculator-app-peach-five.vercel.app/)  
+- 💼 **My Portfolio** → <a href="https://portfolio-tan-six-78.vercel.app/" target="_blank">View Portfolio</a>  
+- 🌍 **Princely Community Management Site** – Crypto marketing landing page for a client providing raiders, shillers, designers, and growth solutions → <a href="https://princelycm.com/" target="_blank">View Website</a>  
+- 🌦️ **Weather App** – Displays live weather info with a user-friendly interface → <a href="https://ns-weather-app.vercel.app/" target="_blank">View App</a>  
+- ✅ **To-Do List App** – Simple, clean productivity app for managing daily tasks → <a href="https://ns-to-do-app.vercel.app/" target="_blank">View App</a>  
+- ➗ **Calculator App** – Lightweight calculator built with core web technologies → <a href="https://calculator-app-peach-five.vercel.app/" target="_blank">View App</a> 
 
 ---
 
