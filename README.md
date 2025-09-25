@@ -9,17 +9,16 @@ I enjoy turning ideas into real-world solutions using modern web technologies. A
 
 ## ⚡ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript/TypeScript, React, Next.js  
-- **Mobile:** React Native
-- **Other:** Git, GitHub  
+- **Mobile:** React Native 
 
 ---
 
 ## 🚀 Featured Projects  
-- 💼 [**My portfolio**]([https://princelycm.com/](https://portfolio-tan-six-78.vercel.app/))
-- 🌍 [**Princely Community Management Site** – Crypto marketing landing page for a client providing raiders, shillers, designers, and growth solutions](https://princelycm.com/)
-- 🌦️ [**Weather App** – Displays live weather info with a user-friendly interface](https://ns-weather-app.vercel.app/)
-- ✅ [**To-Do List App** – Simple, clean productivity app for managing daily tasks](https://calculator-app-peach-five.vercel.app/)
-- ➗ [**Calculator App** – Lightweight calculator built with core web technologies](https://ns-to-do-app.vercel.app/)
+- 💼 **My portfolio** [view portfolio](https://princelycm.com/(https://portfolio-tan-six-78.vercel.app/)
+- 🌍 **Princely Community Management Site** – Crypto marketing landing page for a client providing raiders, shillers, designers, and growth solutions [view website](https://princelycm.com/)
+- 🌦️ **Weather App** – Displays live weather info with a user-friendly interface [view app](https://ns-weather-app.vercel.app/)
+- ✅ **To-Do List App** – Simple, clean productivity app for managing daily tasks [view app](https://calculator-app-peach-five.vercel.app/)
+- ➗ **Calculator App** – Lightweight calculator built with core web technologies [view app](https://ns-to-do-app.vercel.app/)
 
 ---
 
