@@ -9,16 +9,16 @@ I enjoy turning ideas into real-world solutions using modern web technologies. A
 
 ## ⚡ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript/TypeScript, React, Next.js  
-- **Mobile:** React Native 
+- **Mobile:** React Native  
 
 ---
 
 ## 🚀 Featured Projects  
-- 💼 **My portfolio** [view portfolio](https://princelycm.com/(https://portfolio-tan-six-78.vercel.app/)
-- 🌍 **Princely Community Management Site** – Crypto marketing landing page for a client providing raiders, shillers, designers, and growth solutions [view website](https://princelycm.com/)
-- 🌦️ **Weather App** – Displays live weather info with a user-friendly interface [view app](https://ns-weather-app.vercel.app/)
-- ✅ **To-Do List App** – Simple, clean productivity app for managing daily tasks [view app](https://calculator-app-peach-five.vercel.app/)
-- ➗ **Calculator App** – Lightweight calculator built with core web technologies [view app](https://ns-to-do-app.vercel.app/)
+- 💼 **My Portfolio** – [View Portfolio](https://portfolio-tan-six-78.vercel.app/)  
+- 🌍 **Princely Community Management Site** – Crypto marketing landing page for a client providing raiders, shillers, designers, and growth solutions → [View Website](https://princelycm.com/)  
+- 🌦️ **Weather App** – Displays live weather info with a user-friendly interface → [View App](https://ns-weather-app.vercel.app/)  
+- ✅ **To-Do List App** – Simple, clean productivity app for managing daily tasks → [View App](https://ns-to-do-app.vercel.app/)  
+- ➗ **Calculator App** – Lightweight calculator built with core web technologies → [View App](https://calculator-app-peach-five.vercel.app/)  
 
 ---
 
@@ -33,8 +33,8 @@ I enjoy turning ideas into real-world solutions using modern web technologies. A
 - GitHub: [@devnathansunday](https://github.com/devnathansunday)  
 - X (Twitter): [@nvthan_s](https://x.com/nvthan_s)  
 - Discord: **@nvthan_s**  
-- ✉️ Email: **nathanpaulson@gmail.com**  
+- ✉️ Email: **nathanpaulson0@gmail.com**  
 
 ---
 
-⭐️ _Feel free to check out my repositories and drop a star if you find something useful!_
+⭐️ _Feel free to check out my repositories and drop a star if you find something useful!_  
