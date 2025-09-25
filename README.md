@@ -14,7 +14,7 @@ I enjoy turning ideas into real-world solutions using modern web technologies. A
 ---
 
 ## 🚀 Featured Projects  
-- 💼 **My Portfolio** – [View Portfolio](https://portfolio-tan-six-78.vercel.app/)  
+- 💼 **My Portfolio** → [View Portfolio](https://portfolio-tan-six-78.vercel.app/)  
 - 🌍 **Princely Community Management Site** – Crypto marketing landing page for a client providing raiders, shillers, designers, and growth solutions → [View Website](https://princelycm.com/)  
 - 🌦️ **Weather App** – Displays live weather info with a user-friendly interface → [View App](https://ns-weather-app.vercel.app/)  
 - ✅ **To-Do List App** – Simple, clean productivity app for managing daily tasks → [View App](https://ns-to-do-app.vercel.app/)  
